@@ -1,0 +1,9 @@
+
+Listening on port 34312
+Error in source(filePath, local = new.env(parent = .GlobalEnv)) : 
+  30:5: unexpected '<'
+29:                  max = 1000),
+30:     <
+       ^
+Calls: runApp ... eval -> eval -> eval -> <Anonymous> -> func -> source
+Execution halted

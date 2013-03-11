@@ -1,0 +1,18 @@
+
+Listening on port 41956
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+
+Execution halted

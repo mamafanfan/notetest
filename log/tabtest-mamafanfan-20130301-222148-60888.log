@@ -1,0 +1,9 @@
+
+Listening on port 60888
+Error in source(filePath, local = new.env(parent = .GlobalEnv)) : 
+  34:3: unexpected '<'
+33: 
+34:   <
+     ^
+Calls: runApp ... eval -> eval -> eval -> <Anonymous> -> func -> source
+Execution halted

@@ -1,0 +1,8 @@
+
+Listening on port 53655
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in .subset2(x, "impl")$defineOutput(name, value, deparse(substitute(value))) : 
+  Unexpected shiny.tag output for summary
+Calls: runApp ... serverFunc -> $<- -> $<-.shinyoutput -> <Anonymous>
+Execution halted

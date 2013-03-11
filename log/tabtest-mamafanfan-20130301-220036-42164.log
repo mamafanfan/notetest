@@ -1,0 +1,9 @@
+
+Listening on port 42164
+Error in source(filePath, local = new.env(parent = .GlobalEnv)) : 
+  26:5: unexpected symbol
+25:     
+26:     selectInput
+       ^
+Calls: runApp ... eval -> eval -> eval -> <Anonymous> -> func -> source
+Execution halted

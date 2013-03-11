@@ -1,0 +1,158 @@
+
+Listening on port 43504
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Quitting from lines 10-13 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:3:0: unexpected end of input
+1: 1 + 
+2: 
+ ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  3:0: unexpected end of input
+1: 1+3
+2: library(
+ ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:3:0: unexpected end of input
+1: 1+3
+2: library(
+ ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  3:0: unexpected end of input
+1: 1+3
+2: library(dat
+ ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:3:0: unexpected end of input
+1: 1+3
+2: library(dat
+ ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  3:0: unexpected end of input
+1: 1+3
+2: library(
+ ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:3:0: unexpected end of input
+1: 1+3
+2: library(
+ ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('s
+          ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('s
+          ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('data
+          ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('data
+          ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('dataset
+          ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('dataset
+          ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('datasets
+          ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:2:9: unexpected INCOMPLETE_STRING
+1: 1+3
+2: library('datasets
+          ^
+Warning in block_exec(params) :
+  failed to tidy R code in chunk <unnamed-chunk-1>
+reason: Error in base::parse(text = text, srcfile = NULL) : 
+  3:0: unexpected end of input
+1: 1+3
+2: library('datasets'
+ ^
+
+Quitting from lines 10-12 () 
+Error in parse(text = x, srcfile = src) : 
+  <text>:3:0: unexpected end of input
+1: 1+3
+2: library('datasets'
+ ^
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Error in switch(input$dist, norm = rnorm, unif = runif, lnorm = rlnorm,  : 
+  EXPR must be a length 1 vector
+Passing functions to 'reactive' is deprecated. Please use expressions instead. See ?reactive for more information.
+Error in source(filePath, local = new.env(parent = .GlobalEnv)) : 
+  22:14: unexpected string constant
+21:              "Drop me a msg if you want to help develop this app or you want a copy of the finished product when it is completed."
+22:              "Thank you for taking part in this study."
+                ^
+Calls: runApp ... eval -> eval -> eval -> <Anonymous> -> func -> source
+Execution halted

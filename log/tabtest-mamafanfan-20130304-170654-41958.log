@@ -1,0 +1,9 @@
+
+Listening on port 41958
+Error in source(filePath, local = new.env(parent = .GlobalEnv)) : 
+  22:14: unexpected string constant
+21:              "Drop me a msg if you want to help develop this app or you want a copy of the finished product when it is completed."
+22:              "Thank you for taking part in this study."
+                ^
+Calls: runApp ... eval -> eval -> eval -> <Anonymous> -> func -> source
+Execution halted

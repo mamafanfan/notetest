@@ -1,0 +1,9 @@
+
+Listening on port 54871
+Error in source(filePath, local = new.env(parent = .GlobalEnv)) : 
+  38:3: unexpected symbol
+37:   # of the generated distribution
+38:   mainPanel
+     ^
+Calls: runApp ... eval -> eval -> eval -> <Anonymous> -> func -> source
+Execution halted
